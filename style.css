@@ -20,7 +20,7 @@
     padding-top: 10%;
 }
 .B{
-    color: burlywood;
+    color: green;
 }
 
 .serah ul,li::after{
@@ -39,6 +39,7 @@
 .M{
     width: 100%;
     height: 50%;
+    margin-left: 50%;
 }
 .N{
     width: 50%;
@@ -47,8 +48,8 @@
 
 }
 .V{
-    width: 30%;
-    height:30%;
+    width: 100%;
+    height:50%;
 
 
 }
@@ -87,7 +88,7 @@
     text-align: center;
 }
 .R{
-    width: 20%;
+    width: 50%;
     height: 20%;
     float: right;
 }
@@ -145,6 +146,17 @@
     text-align: center;
     background-color: burlywood;
 
+
+}
+.sonia{
+    position: relative;
+    padding: 10px;
+    margin: 10px;
+}
+.search{
+    height: 25px;
+    margin: 0;
+    padding-right: 30px;
 
 }
 
